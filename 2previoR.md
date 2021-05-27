@@ -1,11 +1,12 @@
-Untitled
+farmacocinética de la teofilina
 ================
 
-## GitHub Documents
+## la cinética del fármaco antiasmático teofilina
 
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
+En este trabajo visualizaremos una base de datos en el cual nos muestra
+los datos obtenidos de un experimento sobre la farmacocinética de la
+teofilina. Boeckmann, Sheiner y Beal (1994) donde nos informan datos de
+un estudio del **Dr. Robert Upton¨** sobre la cinética del fármaco
 
 ## Including Code
 
